@@ -1,2 +1,2 @@
-# yolo-octo-mation
+# automation
 Vaughn Automation Repository 
